@@ -11,12 +11,12 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #c1f7f5;
+  background: #696969;
 }
 .nav-links{
   display: flex;
   align-items: center;
-  background: #fff;
+  background: #808080;
   padding: 20px 15px;
   border-radius: 12px;
   box-shadow: 0 5px 10px rgba(0,0,0,0.2);
